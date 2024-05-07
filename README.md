@@ -10,6 +10,12 @@ The goal of this project is to analyze the data of Salifort employees and create
 - Tenure
 - Overworked
 
+## Tools and Skills Used
+- Python - programming language
+- Exploratory Data Analysis
+- Machine Learning Models - Logistic Regression, Decision Tree, Random Forest
+- Feature Engineering
+
 ## Business Understanding
 High turn over rate is a big challenge for Salifort company. It makes a big investment in recruiting, training, and upskilling its employees. If the key factors that drive the employees turnover are analyzed and predicted this can significantly help the company increase retention and job satisfaction for current employees, and save money and time training new employees.
 
