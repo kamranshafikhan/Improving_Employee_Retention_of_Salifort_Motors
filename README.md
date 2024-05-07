@@ -26,7 +26,7 @@ The data for the employee's survery came from "https://www.kaggle.com/datasets/m
 A random forest model comprising of 300 decision trees was used to determine feature importance in predicting whether an employee will leave the company or not. The plot below shows that recent evaluation score of employee, number of projects, tenure and overworked were the top 4 most important factors in determining the turn over.
 The model performed with an accuracy of 96.16%, f1 score of 88.67%, and an AUC score of 93.84.
 
-![__results___166_0](https://github.com/kamranshafikhan/Improving_Employee_Retention_of_Salifort_Motors/assets/61063685/57797418-d485-4e04-aee4-cd645474bdf4)
+![__results___169_0](https://github.com/kamranshafikhan/Improving_Employee_Retention_of_Salifort_Motors/assets/61063685/6a37b214-8ce5-4d05-9f65-002dd1efd49d)
 
 ## Conclusion
 This model can benefit the Salifort motors in improving the employee retention of the company. Efforts and changes should be made in the workload managment and employee recognition.
